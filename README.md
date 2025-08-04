@@ -42,7 +42,7 @@ A smart Arduino-based robotic vacuum cleaner that can be controlled wirelessly v
 
 📂 File Structure
 vacuum_cleaner/
-│
+
 ├── vacuum_cleaner.ino → Arduino source code
 
 
